@@ -2,7 +2,7 @@ Summary:	Module for accessing EteSync accounts through Evolution
 Summary(pl.UTF-8):	Moduł pozwalający na dostęp do kont EteSync z poziomu Evolution
 Name:		evolution-etesync
 Version:	1.0.0
-Release:	1
+Release:	2
 License:	LGPL v2+
 Group:		X11/Applications/Mail
 Source0:	https://download.gnome.org/sources/evolution-etesync/1.0/%{name}-%{version}.tar.xz
